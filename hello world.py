@@ -13,7 +13,7 @@ prin("asdasd")
 a="23234"
 b="aasdsaf"
 print(a,b, sep="")
-
+prin("patru")
 
 
 
