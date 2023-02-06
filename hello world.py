@@ -9,7 +9,7 @@ print("sdfdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsd",
 print("sdfdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsd" 
       "sdfdsfsdfsdfsdfsdfsdfdsfsdfds")
 print("alabala")
-
+prin("asdasd")
 a="23234"
 b="aasdsaf"
 print(a,b, sep="")
